@@ -17,7 +17,7 @@
         </td>
         <td align="center" style="border: none !important; padding: 10px;">
             <a href="#-termux-native-lxqt-edition-fork">
-                <img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-v26/ic_launcher_round.png" width="120px" alt="Termux Native Installation"/>
+                <img src="https://github.com/termux.png" width="120px" alt="Termux Native Installation"/>
                 <br />
                 <b>Termux / Android (This Fork)</b>
             </a>
