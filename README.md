@@ -3,23 +3,30 @@
 
 <p align="center"><img src="docs/example.png" width="400px" alt="Running the program on mspaint.exe"/></p>
 
-<p align="center"><a href="[https://www.youtube.com/watch?v=NFe0aGO9-TE](https://www.youtube.com/watch?v=NFe0aGO9-TE)">Inspired by this video.</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=NFe0aGO9-TE">Inspired by this video.</a></p>
 
-## Downloads
+## Downloads & Platforms
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse !important;">
     <tr style="border: none !important;">
-        <td align="center" style="border: none !important;">
-            <a href="[https://nimaid.itch.io/binary-waterfall](https://nimaid.itch.io/binary-waterfall)">
-                <img src="docs/windows.png" width="150px" alt="Click here to download the program for Windows!"/>
+        <td align="center" style="border: none !important; padding: 10px;">
+            <a href="https://nimaid.itch.io/binary-waterfall">
+                <img src="docs/windows.png" width="120px" alt="Click here to download the program for Windows!"/>
                 <br />
-                <b>Windows</b>
+                <b>Windows (Original)</b>
             </a>
         </td>
-        <td align="center" style="border: none !important;">
-            <a href="[https://pypi.org/project/binary-waterfall/](https://pypi.org/project/binary-waterfall/)">
-                <img src="docs/python.png" width="150px" alt="Click here to download the program for Python!"/>
+        <td align="center" style="border: none !important; padding: 10px;">
+            <a href="#-termux-native-lxqt-edition-fork">
+                <img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-v26/ic_launcher_round.png" width="120px" alt="Termux Native Installation"/>
                 <br />
-                <b>All Platforms</b>
+                <b>Termux / Android (This Fork)</b>
+            </a>
+        </td>
+        <td align="center" style="border: none !important; padding: 10px;">
+            <a href="https://pypi.org/project/binary-waterfall/">
+                <img src="docs/python.png" width="120px" alt="Click here to download the program for Python!"/>
+                <br />
+                <b>All Platforms (PyPI)</b>
             </a>
         </td>
     </tr>
@@ -67,7 +74,7 @@ PYTHONPATH=src python binary-waterfall.py
 If you use this program to make a video or other project, you must provide attribution. Attribution is required regardless of whether your project is for-profit or not. Please reproduce the following attribution statement in full in your video description or otherwise include it in the references for your project:
 ```
 Made with the help of Binary Waterfall:
-https://github.com/nimaid/binary-waterfall
+[https://github.com/nimaid/binary-waterfall](https://github.com/nimaid/binary-waterfall)
 ```
 
 ## Keyboard Shortcuts
